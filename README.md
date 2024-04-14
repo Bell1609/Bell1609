@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **namtranquoc95lqd@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tran-nam-45b41b20a/](www.linkedin.com/in/tranquocnam)
+- 📄 Know about my experiences [www.linkedin.com/in/tranquocnam](www.linkedin.com/in/tranquocnam)
 
 - ⚡ Fun fact **I am weak but fun haha**
 
