@@ -7,15 +7,13 @@
 
 - 🤝 I’m looking for help with my YouTube Channel [𝕥𝕙𝕖 𝕤𝕡𝕣𝕚𝕟𝕘𝕥𝕚𝕞𝕖 𝕠𝕗 𝕝𝕚𝕗𝕖](https://www.youtube.com/@springtimelife)
 
-- 👨‍💻 All of my projects are available at [https://s.net.vn/eIHR](https://s.net.vn/eIHR)
-
-- 📝 I regularly write articles on [https://s.net.vn/eIHR](https://s.net.vn/eIHR)
+- 👨‍💻 All of my projects are available at [My Profile](https://tqnam.online/)
 
 - 💬 Ask me about **Html, CSS, JS**
 
 - 📫 How to reach me **namtranquoc95lqd@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/tranquocnam](www.linkedin.com/in/tranquocnam)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/tranquocnam)
 
 - ⚡ Fun fact **I am weak but fun haha**
 
