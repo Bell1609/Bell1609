@@ -15,14 +15,14 @@
 
 - 📫 How to reach me **namtranquoc95lqd@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tran-nam-45b41b20a/](https://www.linkedin.com/in/tran-nam-45b41b20a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tran-nam-45b41b20a/](www.linkedin.com/in/tranquocnam)
 
 - ⚡ Fun fact **I am weak but fun haha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/namtrnquc3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namtrnquc3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wtran-nam-45b41b20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wtran-nam-45b41b20a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tranquocnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wtran-nam-45b41b20a" height="30" width="40" /></a>
 <a href="https://fb.com/nam160902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nam160902" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@springtimelife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@springtimelife" height="30" width="40" /></a>
 </p>
